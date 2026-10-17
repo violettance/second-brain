@@ -51,7 +51,7 @@ Restrictions:
 - Private use is prohibited.
 - Sublicensing is prohibited.
 
-For licensing inquiries, contact productora.analytics@gmail.com.
+For licensing inquiries, contact [contact@productora.co](mailto:contact@productora.co).
 
 Copyright 2025 Second Brain. All rights reserved.
 
