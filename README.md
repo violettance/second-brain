@@ -2,6 +2,10 @@
 
 Second Brain is a framework for keeping your working memory in plain files on your own computer. An AI agent such as Codex reads and writes those files through one small engine, and every lasting record names the source it came from.
 
+[![The Second Brain home page](docs/landing-page.png)](https://secondbrainos.app)
+
+This repository is the framework. The app at [secondbrainos.app](https://secondbrainos.app) puts screens on the same files: daily notes, memory, projects and tasks in your browser, while your files stay on your computer. Use the framework on its own, or open the app.
+
 ## What is in this repository
 
 | Path | Contents |
@@ -39,10 +43,6 @@ The [engine guide](brain/README.md) describes every command.
 ## Requirements
 
 Python 3.9 or later on macOS or Linux. Nothing to install.
-
-## The app
-
-The Second Brain app at [secondbrainos.app](https://secondbrainos.app) is a separate interface for the same files. The framework works without it.
 
 ## License
 
